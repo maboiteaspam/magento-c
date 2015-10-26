@@ -61,6 +61,8 @@ This module need s that you patch the mage autoloader.
 $ cd $MAGENTO_DIR
 $ patch -p0 < $SYMFONY_DIR/vendor/bundles/Liip/MagentoBundle/magento-autoloader.patch
 
+https://github.com/maboiteaspam/magento-c/blob/master/magento-autoloader.patch
+
 ## Magento reading
 
 Stuff i got to read to work with Magento in this module,
