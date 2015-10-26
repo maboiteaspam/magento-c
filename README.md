@@ -61,6 +61,10 @@ $ patch -p0 < $SYMFONY_DIR/vendor/bundles/Liip/MagentoBundle/magento-autoloader.
 
 Stuff i got to read to work with Magento in this module,
 
+- http://devblog.lexik.fr/symfony2/integration-de-magento-et-symfony2-1935
+- https://github.com/lognllc/LogNMagento
+- http://www.hitmaroc.net/172256-1195-using-magento-api-get-products.html
+- https://blog.liip.ch/archive/2011/09/21/integrating-magento-into-symfony2.html
 - http://magento.stackexchange.com/questions/12308/magento-call-a-function-of-model-in-controller
 - http://stackoverflow.com/questions/18756753/magento-getsingleton-vs-getmodel-issue
 - http://stackoverflow.com/questions/17340030/login-function-use-in-custom-module-controller-in-magento
