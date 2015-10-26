@@ -1,0 +1,28 @@
+{
+  "prefer-stable": true,
+  "minimum-stability": "dev",
+  "name": "magento/c",
+  "require": {
+    "c/foundation": "dev-master",
+    "c/bootstrap": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "Magento\\C\\": "src/"
+    }
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@github.com:maboiteaspam/Foundation.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:maboiteaspam/Bootstrap.git"
+    },
+    {
+      "type": "path",
+      "url": "..\\Foundation"
+    }
+  ]
+}
