@@ -2,6 +2,11 @@
 
 Magento\C module let you connect a magento backend on your C module.
 
+C framework is a lightweight framework dedicated to frontend development for php applications,
+based on top of silex and symfony, you can read more about it at
+
+https://github.com/maboiteaspam/Foundation/blob/master/doc/1-Introduction.md
+
 ## Install
 
 Git clone the repository.
