@@ -39,7 +39,9 @@ This module exposes those configuration values,
 
 ## Requirements
 
-You will need a valid install of Magento. Please do it yourself,
+You will need a valid install of Magento.
+
+Please __DIY__,
 
 http://devdocs.magento.com/guides/m1x/install/installing.html
 
@@ -47,12 +49,14 @@ http://devdocs.magento.com/guides/m1x/install/installing.html
 ## Credits, notes, more
 
 __inspiration__
+
 This module is largely inspired by the work provided by `liip` team, see more at
 
 https://github.com/liip/LiipMagentoBundle
 
 __auto-loading__
-This module need you to patch the mage autoloader.
+
+This module need s that you patch the mage autoloader.
 
 $ cd $MAGENTO_DIR
 $ patch -p0 < $SYMFONY_DIR/vendor/bundles/Liip/MagentoBundle/magento-autoloader.patch
