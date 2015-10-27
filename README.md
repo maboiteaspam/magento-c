@@ -82,3 +82,4 @@ Stuff i got to read to work with Magento in this module,
 - https://blog.ancud.de/home/-/blogs/magento-how-to-login-a
 - http://makandracards.com/magento/10723-messages-and-global-messages-blocks
 - http://inchoo.net/magento/programming-magento/programatically-create-customer-and-order-in-magento-with-full-blown-one-page-checkout-process-under-the-hood/
+- http://stackoverflow.com/questions/16983227/after-installing-magento-in-my-local-machine-i-forgot-admin-password
